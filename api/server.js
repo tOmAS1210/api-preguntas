@@ -51,3 +51,5 @@ app.get("/api/preguntasJuegos", (req, res) => {
 app.listen(PORT, () => {
   console.log(`API lanzada en http://localhost:${PORT}/api/preguntas`);
 });
+
+module.exports = app;
