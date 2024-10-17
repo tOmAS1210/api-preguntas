@@ -1,0 +1,97 @@
+[
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": "¿Qué banda lanzó el álbum 'Abbey Road'?",
+    "respuesta_correcta": "The Beatles",
+    "respuestas": [
+      "The Beatles",
+      "The Rolling Stones",
+      "Pink Floyd",
+      "Led Zeppelin"
+    ],
+    "foto": "fotos_entretenimiento/beatles.png"
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": "¿Cuál es el nombre del villano en la película 'El Rey León'?",
+    "respuesta_correcta": "Scar",
+    "respuestas": ["Scar", "Mufasa", "Simba", "Zazu"],
+    "foto": "fotos_entretenimiento/scar.png"
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": "¿Quién dirigió la trilogía original de Star Wars?",
+    "respuesta_correcta": "George Lucas",
+    "respuestas": [
+      "George Lucas",
+      "Steven Spielberg",
+      "J.J. Abrams",
+      "James Cameron"
+    ],
+    "foto": "fotos_entretenimiento/jorge.png"
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": "¿En qué año se lanzó la película 'Titanic'?",
+    "respuesta_correcta": "1997",
+    "respuestas": ["1997", "1995", "1996", "1998"],
+    "foto": "fotos_entretenimiento/titanic.png"
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": "¿Qué superheroína es también conocida como Diana Prince?",
+    "respuesta_correcta": "Mujer Maravilla",
+    "respuestas": [
+      "Mujer Maravilla",
+      "Capitana Marvel",
+      "Supergirl",
+      "Viuda Negra"
+    ],
+    "foto": "fotos_entretenimiento/wonder.png"
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": "¿Cuantas temporadas emitidas tiene actualmente los simpsons?",
+    "respuesta_correcta": "36",
+    "respuestas": ["15", "30", "27", "36"],
+    "foto": "fotos_entretenimiento/simpsons.png"
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": "¿Qué actriz protagonizó la serie 'Friends' como Rachel?",
+    "respuesta_correcta": "Jennifer Aniston",
+    "respuestas": [
+      "Jennifer Aniston",
+      "Courteney Cox",
+      "Lisa Kudrow",
+      "Reese Witherspoon"
+    ],
+    "foto": "fotos_entretenimiento/aniston.png"
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": "¿Cual es el nombre del mutante que lanza rayos de los ojos?",
+    "respuesta_correcta": "Cyclope",
+    "respuestas": ["Wolverine", "Cyclope", "Gambito", "Nightcrawler"],
+    "foto": "fotos_entretenimiento/ciclope.png"
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": "¿Qué actor interpreta a Jack Sparrow en 'Piratas del Caribe'?",
+    "respuesta_correcta": "Johnny Depp",
+    "respuestas": [
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Geoffrey Rush",
+      "Hugh Jackman"
+    ],
+    "foto": "fotos_entretenimiento/jack.png"
+  },
+  {
+    "categoria": "Entretenimiento",
+    "pregunta": "¿Qué cantante popularizó la canción 'Rolling in the Deep'?",
+    "respuesta_correcta": "Adele",
+    "respuestas": ["Adele", "Beyoncé", "Lady Gaga", "Rihanna"],
+    "foto": "fotos_entretenimiento/adele.png"
+  }
+]

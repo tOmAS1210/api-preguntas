@@ -1,0 +1,77 @@
+[
+  {
+    "categoria": "Conocimiento General",
+    "pregunta": "¿Cuál es el océano más grande del mundo?",
+    "respuesta_correcta": "Océano Pacífico",
+    "respuestas": [
+      "Océano Atlántico",
+      "Océano Índico",
+      "Océano Pacífico",
+      "Océano Ártico"
+    ],
+    "foto": "fotos_general/pacifico.png"
+  },
+  {
+    "categoria": "Conocimiento General",
+    "pregunta": "¿Qué país tiene la mayor población del mundo?",
+    "respuesta_correcta": "China",
+    "respuestas": ["China", "India", "Estados Unidos", "Indonesia"],
+    "foto": "fotos_general/china.png"
+  },
+  {
+    "categoria": "Conocimiento General",
+    "pregunta": "¿En qué continente se encuentra Egipto?",
+    "respuesta_correcta": "África",
+    "respuestas": ["África", "Asia", "Europa", "América"],
+    "foto": "fotos_general/egipto.png"
+  },
+  {
+    "categoria": "Conocimiento General",
+    "pregunta": "¿Cuál es el idioma más hablado del mundo?",
+    "respuesta_correcta": "Mandarín",
+    "respuestas": ["Mandarín", "Inglés", "Español", "Hindú"],
+    "foto": "fotos_general/idiomas.png"
+  },
+  {
+    "categoria": "Conocimiento General",
+    "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+    "respuesta_correcta": "Mercurio",
+    "respuestas": ["Mercurio", "Venus", "Tierra", "Marte"],
+    "foto": "fotos_general/planetacerca.png"
+  },
+  {
+    "categoria": "Conocimiento General",
+    "pregunta": "¿Cuantos campeonatos gano Manu Ginobili en la NBA?",
+    "respuesta_correcta": "4",
+    "respuestas": ["0", "4", "3", "5"],
+    "foto": "fotos_general/goat.png"
+  },
+  {
+    "categoria": "Conocimiento General",
+    "pregunta": "¿Cuál es el metal más ligero?",
+    "respuesta_correcta": "Litio",
+    "respuestas": ["Litio", "Oro", "Plata", "Cobre"],
+    "foto": "fotos_general/litio.png"
+  },
+  {
+    "categoria": "Conocimiento General",
+    "pregunta": "¿Qué deporte se practica en Wimbledon?",
+    "respuesta_correcta": "Tenis",
+    "respuestas": ["Tenis", "Fútbol", "Cricket", "Golf"],
+    "foto": "fotos_general/grounds.png"
+  },
+  {
+    "categoria": "Conocimiento General",
+    "pregunta": "¿Cuál es la capital de Canadá?",
+    "respuesta_correcta": "Ottawa",
+    "respuestas": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+    "foto": "fotos_general/canada.png"
+  },
+  {
+    "categoria": "Conocimiento General",
+    "pregunta": "¿Cuantos planetas hay en el sistema solar?",
+    "respuesta_correcta": "8",
+    "respuestas": ["8", "10", "6", "9"],
+    "foto": "fotos_general/sistema.png"
+  }
+]

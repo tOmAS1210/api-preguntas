@@ -1,0 +1,87 @@
+[
+  {
+    "categoria": "Juegos",
+    "pregunta": "¿En qué videojuego luchas contra el jefe llamado Bowser?",
+    "respuesta_correcta": "Super Mario",
+    "respuestas": ["Zelda", "Sonic", "Donkey Kong", "Super Mario"],
+    "foto": "fotos_juegos/bowser.png"
+  },
+  {
+    "categoria": "Juegos",
+    "pregunta": "¿Qué juego presenta un mundo abierto en el que puedes robar autos y completar misiones?",
+    "respuesta_correcta": "Grand Theft Auto",
+    "respuestas": ["The Sims", "Fortnite", "Minecraft", "Grand Theft Auto"],
+    "foto": "fotos_juegos/gta.png"
+  },
+  {
+    "categoria": "Juegos",
+    "pregunta": "¿Qué juego de cartas se juega con figuras como el Rey, Reina y As?",
+    "respuesta_correcta": "Poker",
+    "respuestas": ["Uno", "Magic", "Bridge", "Poker"],
+    "foto": "fotos_juegos/poker.png"
+  },
+  {
+    "categoria": "Juegos",
+    "pregunta": "¿Qué videojuego presenta a un personaje llamado Link?",
+    "respuesta_correcta": "The Legend of Zelda",
+    "respuestas": [
+      "The Legend of Link",
+      "Metroid",
+      "Kirby",
+      "The Legend of Zelda"
+    ],
+    "foto": "fotos_juegos/legendzelda.png"
+  },
+  {
+    "categoria": "Juegos",
+    "pregunta": "¿Cuál es el juego de ajedrez en el que el rey y la torre cambian de posición?",
+    "respuesta_correcta": "Enroque",
+    "respuestas": ["Gambito", "Jaque", "Mate", "Enroque"],
+    "foto": "fotos_juegos/Enroque_corto.png"
+  },
+  {
+    "categoria": "Juegos",
+    "pregunta": "¿Qué videojuego popular se desarrolla en el mundo ficticio de Tamriel?",
+    "respuesta_correcta": "The Elder Scrolls",
+    "respuestas": [
+      "Final Fantasy",
+      "World of Warcraft",
+      "Dragon Age",
+      "The Elder Scrolls"
+    ],
+    "foto": "fotos_juegos/elderscrolls.png"
+  },
+  {
+    "categoria": "Juegos",
+    "pregunta": "¿Como se llama la saga de juegos en la que estan los Big Daddy's protegiendo Little's Sisters?",
+    "respuesta_correcta": "Bioshock",
+    "respuestas": ["Silent Hill", "Bioshock", "Terraria", "WarHammer"],
+    "foto": "fotos_juegos/bioshock.png"
+  },
+  {
+    "categoria": "Juegos",
+    "pregunta": "¿Qué videojuego incluye al personaje Tracer?",
+    "respuesta_correcta": "Overwatch",
+    "respuestas": [
+      "Apex Legends",
+      "Fortnite",
+      "League of Legends",
+      "Overwatch"
+    ],
+    "foto": "fotos_juegos/overwatch.png"
+  },
+  {
+    "categoria": "Juegos",
+    "pregunta": "¿Qué consola de videojuegos fue desarrollada por Sega?",
+    "respuesta_correcta": "Dreamcast",
+    "respuestas": ["PlayStation", "Xbox", "Nintendo 64", "Dreamcast"],
+    "foto": "fotos_juegos/dreamcast.png"
+  },
+  {
+    "categoria": "Juegos",
+    "pregunta": "¿Contra que te enfrentas en la saga de juegos llamada Wolfenstein?",
+    "respuesta_correcta": "Nazis",
+    "respuestas": ["Nazis", "Comunistas", "Terroristas", "Zombies"],
+    "foto": "fotos_juegos/nazis.png"
+  }
+]
